@@ -25,7 +25,7 @@ python ip.py
 # termux
 You can do the same
 
-#credits
+# credits
 
 ![what-is-the-ip-address-of-facebook-8181521-f79906a91125419da423bddb6fc69757](https://user-images.githubusercontent.com/79198231/118796094-f08ec300-b8a3-11eb-8a4f-d17365d53143.gif)
 
